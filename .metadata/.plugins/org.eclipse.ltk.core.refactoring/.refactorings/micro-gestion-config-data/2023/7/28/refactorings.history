@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 elements to &apos;ms-gestion-config-data&apos;&#x0D;&#x0A;- Original project: &apos;micro-gestion-config-data&apos;&#x0D;&#x0A;- Destination element: &apos;ms-gestion-config-data&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     categorias.yml&#x0D;&#x0A;     carrito.yml&#x0D;&#x0A;     clientes.yml&#x0D;&#x0A;     micro-admin-registry-server.yml&#x0D;&#x0A;     productos.yml&#x0D;&#x0A;     pedidos.yml" description="Copy files" element1="categorias.yml" element2="carrito.yml" element3="clientes.yml" element4="micro-admin-registry-server.yml" element5="productos.yml" element6="pedidos.yml" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1689106870293" target="/ms-gestion-config-data/ms-gestion-config-data" units="0" version="1.0"/>
+</session>
